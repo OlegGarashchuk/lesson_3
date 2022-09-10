@@ -1,0 +1,62 @@
+h1 {
+   color: rgb(158, 85, 85);
+}
+
+.header-subtitle {
+   color: rgb(71, 139, 62);
+}
+
+.header-link {
+   color: rgb(75, 196, 45);
+}
+
+#item-1,
+#item-2,
+#item-3,
+#item-4 {
+   color: chocolate;
+}
+
+.item1-text.blue-text {
+   color: rgb(6, 6, 245);
+}
+
+.item1-text.yellow-text {
+   color: rgb(220, 230, 84);
+}
+
+.item1-list {
+   color: rgb(107, 36, 173);
+}
+
+.item2-list li {
+   color: darkcyan;
+}
+
+.item2-text.text-red {
+   color: red;
+}
+
+.item2-text.text-green {
+   color: green;
+}
+
+.main-item3>p {
+   color: rgb(75, 179, 179);
+}
+
+.item3-list+p {
+   color: rgb(231, 17, 185);
+}
+
+.item4-title~p {
+   color: rgb(83, 175, 132);
+}
+
+.item4-list li a {
+   color: rgb(255, 2, 99);
+}
+
+.footer-link a {
+   color: rgb(72, 139, 139);
+}
